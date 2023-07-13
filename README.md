@@ -48,16 +48,3 @@ The dataset reveals that a small handful of microbial species (also called opera
 Display each key-value pair from the metadata JSON object somewhere on the page.<br/>
    ![Bubble Chart](OutPut/DemographicInfo.png)
 
-## Files
-- [Output](https://github.com/Ash-Tao/Belly_Button_Biodiversity/tree/main/OutPut)<br/>
-  - BubbleChart.png<br/>
-  - DemographicInfo.png<br/>
-  - Full Screen.png<br/>
-  - GaugeChart .png<br/>
-  - Info&BarChart.png<br/>
-
-- [app.js](https://github.com/Ash-Tao/Belly_Button_Biodiversity/blob/main/app.js)<br/>
-
-- [index.html](https://github.com/Ash-Tao/Belly_Button_Biodiversity/blob/main/index.html)<br/>
-
-- [Data Sample](https://github.com/Ash-Tao/Belly_Button_Biodiversity/blob/main/samples.json)<br/>
